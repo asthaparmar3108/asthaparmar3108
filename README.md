@@ -11,11 +11,11 @@
 ## 🌐 Connect with Me  
 - [LinkedIn](www.linkedin.com/in/astha-parmar-222041263)   
 - 📧 Email: astha.parmar31@gmail.com
-- *"Mathematics gives me logic, data gives me vision, and together they help me solve problems."*
+  
+  *"Mathematics gives me logic, data gives me vision, and together they help me solve problems."*
 
 
 
-Added my profile README
 <!--
 **asthaparmar3108/asthaparmar3108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
